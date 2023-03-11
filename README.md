@@ -7,10 +7,6 @@ My current goal of this git is to setup a personal project management system alo
 The reason for doing this in a such structured nature, instead of freeballing everything, is to get a better understanding for how the project models used in my professional life are used. With, hopefully, an added bennefit of structuring my projects in smaller tasks that are easier managed when done sporadicly during my free time.
 
 
-I will be working in a Linux environment using Ubuntu as the OS of my computer. Electrical design software and CAD will be KiCAD.
-Testing capabilities at the moment is limited to a basic multimeter, which I intend to expand with something similar to an ADAM2000 from Analog Devices. It will not be the most powerful testbench, but it is enough to do basic testing on simpler circuits. Who knows, I may even learn something from being limited. Solder station at the moment is basicly as powerful as your run of the mill hair-flattening device, will have to look into upgrading that at some point.
-
-
 <!---
 Hathies/Hathies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
